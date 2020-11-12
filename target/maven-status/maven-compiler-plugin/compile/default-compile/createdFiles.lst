@@ -1,0 +1,7 @@
+com\demo\Service\DeviceServiceImpl.class
+com\demo\Service\DeviceService.class
+com\demo\Exception\DeviceNotFoundException.class
+com\demo\SpringbootcrudApplication.class
+com\demo\Controller\DeviceController.class
+com\demo\Model\Device.class
+com\demo\Repository\DeviceRepository.class
